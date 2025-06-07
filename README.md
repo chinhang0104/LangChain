@@ -1,6 +1,7 @@
 # LangChain Chatbot
 
-This project is a simple demo for a chatbot application using LangChain.
+This project is a simple demo for a chatbot application using LangChain.  
+You can refer [LangGraph-deploy](https://github.com/chinhang0104/LangGraph-deploy) for deployment. 
 
 ## Notebooks
 
