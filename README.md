@@ -1,7 +1,7 @@
 # LangChain Chatbot
 
 This project is a simple demo for a chatbot application using LangChain.  
-You can refer [LangGraph-deploy](https://github.com/chinhang0104/LangGraph-deploy) for deployment. 
+You can refer [LangGraph-deploy](https://github.com/chinhang0104/LangGraph-deploy) for deployment and [Chatbot-Web](https://github.com/chinhang0104/Chatbot-Web) for chatbot UI. 
 
 ## Notebooks
 
@@ -21,3 +21,4 @@ LangGraph is graph-based, stateful orchestration model, which is designed to han
 Run the following command to install the required packages:
 ```bash
 pip install langchain-community langchain-chroma langchain-text-splitters langchain-huggingface langchain-groq langgraph langsmith
+```
