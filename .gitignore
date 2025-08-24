@@ -1,2 +1,6 @@
 .ipynb_checkpoints/
+doc_db/
+chroma_langchain_db/
 .env
+*.db
+*.sqlite3
